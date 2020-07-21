@@ -1,8 +1,6 @@
 ### Welcome, stranger 👋
 
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on [Identex](https://identex.co/), a fraud detection engine with a very high success rate.
 - 🌱 I’m currently learning Dart/Flutter.
 - 👯 I’m looking to collaborate on self-hosted projects that can replace Google services.
