@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Identex](https://identex.co/), a fraud detection engine with a very high success rate.
 - 🌱 I’m currently learning Dart/Flutter.
-- 👯 I’m looking to collaborate on self-hosted projects that can replace Google services.
+- 👯 I’m looking to collaborate on experimental projects!
 - 🤔 I’m looking for good books on data analysis
 - 💬 Ask me about [Identex](https://identex.co/), or working on a project together.
 - 📫 How to reach me: brad@identex.co
