@@ -1,5 +1,6 @@
 ### Welcome, stranger 👋
 
+[![Visits Badge](https://badges.pufler.dev/visits/breadbored/breadbored)](https://badges.pufler.dev) [![Years Badge](https://badges.pufler.dev/years/breadbored)](https://badges.pufler.dev)
 
 - 🔭 I’m currently working on [Identex](https://identex.co/), a fraud detection engine with a very high success rate.
 - 🌱 I’m currently learning Dart/Flutter.
