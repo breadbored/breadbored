@@ -10,3 +10,5 @@
 - 📫 How to reach me: brad@identex.co
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I've been writing software since I was 11 years old. My first language was Python 2 and I still use Python today!
+
+![trk](https://analysis.identex.co/ingress/066dd1b8-fa67-4dc9-b8ed-54b549bf6925/pixel.gif)
