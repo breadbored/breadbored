@@ -1,6 +1,6 @@
 ### About Me
 
-[![Visits Badge](https://badges.pufler.dev/visits/breadbored/breadbored)](https://badges.pufler.dev) [![Years Badge](https://badges.pufler.dev/years/breadbored)](https://badges.pufler.dev)
+[![Breadbored's stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=breadbored&theme=vue)](https://github.com/breadbored)
 
 - 🔭 I’m currently working on [Identex](https://identex.co/), a fraud detection engine with a competitvely high success rate.
 - 🌱 I’m currently learning Dart/Flutter as well as Rust. I've been enjoying them both!
